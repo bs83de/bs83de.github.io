@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: bs83de — cyber security content
 description: Presentations, workshops, and other things for students and interested people
+show_downloads: false
